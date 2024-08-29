@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AngularEstrutura
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.2.
@@ -60,4 +59,4 @@ Testes e Aprendizados:
 Utilizei o Swagger para documentar e testar todos os endpoints da API, além de ferramentas como Postman para garantir que tudo estivesse funcionando corretamente. Cada etapa do projeto foi uma oportunidade de aprendizado, mostrando que, apesar de ainda não compreender todos os detalhes, a prática é essencial para consolidar o conhecimento e aprimorar minhas habilidades.
 
 Este projeto foi uma excelente oportunidade para aplicar e aprofundar meus conhecimentos. Embora eu ainda esteja no início da minha jornada e não compreenda todos os detalhes, estou empolgado com o progresso que fiz e ansioso para continuar aprendendo e crescendo no desenvolvimento.
->>>>>>> 262e971c2b4de7ea36e780974f53937dc5531bb4
+>>>>>>> 
